@@ -9,7 +9,7 @@ It allows thousands of players to drive together in the same world, creating a s
 ## 🔗 Latest Release of TruckersMP
 
 - **💾 Version v.0.799** – *Tool files & folders*  
-  👉 [The Latest Release]()
+  👉 [The Latest Release](https://github.com/TruckersMP-Trucker-Simulator-MP/.github/releases)
   
 * **Format:** `.zip` archive
 
